@@ -4,7 +4,7 @@ Con este script una voz Loquendo avisará que hora es, cada media hora [solo Win
 A mi me sirve porque pierdo la nocion del tiempo cuando estoy en el computador  
 Ojala le sirva a alguien más  
 
-1. Instalar pygame [pip install pygame]  
+1. Instalar pygame [pip install pygame] y Python 
 2. Ejecutar task-program.py para agregar las tareas al Programador de tareas de Windows  
 3. Listo  
 
